@@ -1,0 +1,22 @@
+
+screen.SOL = §eSol
+screen.COLORS = §bColores
+screen.PostProcess = §cPostProcesado
+screen.SHADOWS = §dSombras
+
+option.sunPathRotation = §9Rotacion del Sol
+option.sunPathRotation.comment = Ajusta angulo del sol. Algo mas. Sol
+
+
+option.MOTION_BLUR=Desenfoque de movimiento
+value.MOTION_BLUR.0=Desactivado
+value.MOTION_BLUR.1=Activado
+
+option.DOF=Profundidad del campo
+value.DOF.0=No
+value.DOF.1=Si
+
+option.AO =Oclusion Ambiental
+option.AO_INTENSITY =Intensidad de AO
+value.AO.0=Desactivado
+value.AO.1=Activado

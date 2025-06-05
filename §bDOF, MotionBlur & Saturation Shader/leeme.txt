@@ -1,0 +1,4 @@
+Hola espero te sea de utilidad este ejemplo y
+estructura basica de un shader para minecraft.
+
+-OlvirkMC
